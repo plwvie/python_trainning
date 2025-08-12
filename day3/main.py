@@ -88,3 +88,5 @@ print("I am {}".format(age))
 s = "Hello World"
 lst = s.split()
 print(lst) 
+
+print('a' or '1')
